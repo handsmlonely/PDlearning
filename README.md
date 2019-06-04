@@ -1,3 +1,4 @@
-# My Awesome Book
+### 做好要给产品经理
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本书用以汇总和整理产品经理岗位指责和工作流程指导。
+
