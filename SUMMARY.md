@@ -5,5 +5,6 @@
 * [产品套路](chan-pin-tao-lu.md)
   * [IPD](chan-pin-tao-lu/ipd.md)
 * [案例分析](an-li-fen-xi.md)
+  * [互联网公司产品管理流程初步调研](an-li-fen-xi/kuai-shou.md)
 * [最佳实践](zui-jia-shi-jian.md)
 
