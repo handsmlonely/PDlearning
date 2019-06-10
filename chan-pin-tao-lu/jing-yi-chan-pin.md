@@ -126,7 +126,9 @@ $$
 >
 > 纵轴：消费能力的高低
 >
-> 横轴：潮流敏感度的强弱![](/assets/UNADJUSTEDNONRAW_thumb_3b0d.jpg)
+> 横轴：潮流敏感度的强弱
+>
+> ![](/assets/UNADJUSTEDNONRAW_thumb_3b0d.jpg)
 
 ### 需求场景分析
 
