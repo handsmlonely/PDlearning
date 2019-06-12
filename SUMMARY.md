@@ -9,5 +9,6 @@
   * [行业分析](chan-pin-tao-lu/xing-ye-fen-xi.md)
 * [案例分析](an-li-fen-xi.md)
   * [互联网公司产品管理流程初步调研](an-li-fen-xi/kuai-shou.md)
+  * [智慧停车行业调研](an-li-fen-xi/zhi-hui-ting-che-xing-ye-diao-yan.md)
 * [最佳实践](zui-jia-shi-jian.md)
 
