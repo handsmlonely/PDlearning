@@ -1,6 +1,8 @@
-# **快手**
+# 互联网公司产品流程调研
 
-> 作者：陈佳慧
+> 作者 陈佳慧 2019年6月11日
+
+# **快手**
 
 [https://cn.atlassian.com/software/jira](https://cn.atlassian.com/software/jira)
 
