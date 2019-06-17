@@ -5,6 +5,7 @@
   * [第一性原理](chan-pin-si-wei/di-yi-xing-yuan-li.md)
 * [产品套路](chan-pin-tao-lu.md)
   * [精益产品](chan-pin-tao-lu/jing-yi-chan-pin.md)
+    * [分解问题](chan-pin-tao-lu/jing-yi-chan-pin/fen-jie-wen-ti.md)
   * [整合产品研发IPD](chan-pin-tao-lu/ipd.md)
   * [行业分析](chan-pin-tao-lu/xing-ye-fen-xi.md)
 * [案例分析](an-li-fen-xi.md)
