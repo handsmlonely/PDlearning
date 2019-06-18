@@ -11,5 +11,6 @@
 * [案例分析](an-li-fen-xi.md)
   * [互联网公司产品管理流程初步调研](an-li-fen-xi/kuai-shou.md)
   * [智慧停车行业调研](an-li-fen-xi/zhi-hui-ting-che-xing-ye-diao-yan.md)
-* [最佳实践](zui-jia-shi-jian.md)
+* [实践指导](zui-jia-shi-jian.md)
+  * [产品总体规划](zui-jia-shi-jian/chan-pin-zong-ti-gui-hua.md)
 
