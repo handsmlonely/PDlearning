@@ -8,7 +8,7 @@
     * [分解问题](chan-pin-tao-lu/jing-yi-chan-pin/fen-jie-wen-ti.md)
   * [整合产品研发](chan-pin-tao-lu/ipd.md)
   * [产品总体规划](zui-jia-shi-jian/chan-pin-zong-ti-gui-hua.md)
-  * [行业分析](chan-pin-tao-lu/xing-ye-fen-xi.md)
+  * [产品需求文档](chan-pin-tao-lu/chan-pin-xu-qiu-wen-dang.md)
 * [案例分析](an-li-fen-xi.md)
   * [互联网公司产品管理流程初步调研](an-li-fen-xi/kuai-shou.md)
   * [智慧停车行业调研](an-li-fen-xi/zhi-hui-ting-che-xing-ye-diao-yan.md)
