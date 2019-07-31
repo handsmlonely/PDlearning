@@ -16,4 +16,5 @@
 * [实践指导](zui-jia-shi-jian.md)
 * [心有江河](xin-you-jiang-he.md)
   * [关于5G](xin-you-jiang-he/guan-yu-5g.md)
+  * [人工智能之cognifying ](xin-you-jiang-he/ren-gongzhi-neng-zhi-cognifying.md)
 
