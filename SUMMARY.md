@@ -3,6 +3,7 @@
 * [合格的产品经理](README.md)
 * [产品思维](chan-pin-si-wei.md)
   * [第一性原理](chan-pin-si-wei/di-yi-xing-yuan-li.md)
+  * [相对思维](chan-pin-si-wei/xiang-dui-si-wei.md)
 * [产品套路](chan-pin-tao-lu.md)
   * [精益产品研发](chan-pin-tao-lu/jing-yi-chan-pin.md)
     * [分解问题](chan-pin-tao-lu/jing-yi-chan-pin/fen-jie-wen-ti.md)
